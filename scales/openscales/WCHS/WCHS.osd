@@ -6,7 +6,7 @@
       "code": "WCHS",
       "abbreviation": "WCHS",
       "description": "10-item scale measuring the belief that words can cause lasting psychological harm. Items assess attitudes about speech in general and about reading words specifically. Responses on a 1–100 sliding scale (1 = Strongly disagree, 25 = Somewhat disagree, 50 = Neither agree nor disagree, 75 = Somewhat agree, 100 = Strongly agree). Total score is the mean of all 10 items.",
-      "citation": "Lovett, B. J., & Bhatt, R. (2025). Words Can Harm Scale (WCHS). PsyArXiv. https://osf.io/gf8j5/overview",
+      "citation": "Pratt, S., Jones, P. J., Bellet, B. W., McNally, R., & Gray, K. (2026). The words can harm scale: Measuring beliefs about harmful speech. Personality and Individual Differences, 257. https://doi.org/10.1016/j.paid.2026.113785",
       "license": "CC BY 4.0",
       "license_url": "https://osf.io/gf8j5/overview",
       "version": "1.0",
@@ -352,7 +352,7 @@
       ],
       "header": "Words Can Harm Scale (WCHS) Report",
       "footer_refs": [
-        "Lovett, B. J., & Bhatt, R. (2025). Words Can Harm Scale (WCHS). PsyArXiv. https://osf.io/gf8j5/overview",
+        "Pratt, S., Jones, P. J., Bellet, B. W., McNally, R., & Gray, K. (2026). The words can harm scale: Measuring beliefs about harmful speech. Personality and Individual Differences, 257. https://doi.org/10.1016/j.paid.2026.113785",
         "Sliding scale anchors: 1 = Strongly disagree, 25 = Somewhat disagree, 50 = Neither agree nor disagree, 75 = Somewhat agree, 100 = Strongly agree."
       ]
     }
